@@ -9,7 +9,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="CSharp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/715px-C_Sharp_logo.png" />
+<img align="left" alt="CSharp" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/715px-C_Sharp_logo.png" />
 <img align="left" alt=".NET" width="26px" src="https://www.limonhost.net/makaleler/wp-content/uploads/2019/11/net-framework.png" />
 <img align="left" alt=".NET Core" width="26px" src="https://www.pngitem.com/pimgs/m/33-335825_-net-core-logo-png-transparent-png.png" />
 <img align="left" alt="Visual Stodio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
