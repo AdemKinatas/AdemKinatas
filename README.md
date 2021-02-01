@@ -1,6 +1,6 @@
-### Hi there, I'm Adem Kınataş 👋
+## Hi there, I'm Adem Kınataş 👋
 
-## I'm a I’m a Industrial Engineer and Software Developer.
+### I'm a Industrial Engineer and Software Developer.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects
