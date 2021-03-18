@@ -10,7 +10,7 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="CSharp" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/715px-C_Sharp_logo.png" />
+<img align="left" alt="CSharp" width="40px" src="https://miro.medium.com/max/594/1*ymVNbsdd7KxHXHC4-LP7kw.png" />
 <img align="left" alt=".NET" width="40px" src="https://img.favpng.com/22/12/24/net-framework-microsoft-windows-7-png-favpng-srUtzC1G9i7NYhfnduH4H5qkS.jpg" />
 <img align="left" alt=".NET Core" width="40px" src="https://www.pngitem.com/pimgs/m/33-335825_-net-core-logo-png-transparent-png.png" />
 <img align="left" alt="Visual Stodio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
