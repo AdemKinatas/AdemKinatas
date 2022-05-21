@@ -10,7 +10,7 @@
 
   <h2 align="center">Github stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rumeysayuk&show_icons=true&theme=synthwave" alt="rumeysayuk :: Profile Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ademkinatas&show_icons=true&theme=synthwave" alt="rumeysayuk :: Profile Stats" />
   <br>
 </p>
   
