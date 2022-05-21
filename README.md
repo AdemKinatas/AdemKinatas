@@ -6,8 +6,7 @@
 ### <div align="center">I'm Adem,I'am software  developer 👨‍💻 I'am interested coding since 2019 🚀</div>  
 
 
-- 🌱 I’m currently learning .net,react and react native tecnologies
-- ## I am interested in natural language processing.I am using python,nltk...
+- 🌱 I’m currently using .net,react and react native tecnologies
 
   <h2 align="center">Github stats :bar_chart:</h2>
 <p align="center">
