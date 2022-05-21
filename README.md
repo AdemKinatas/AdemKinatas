@@ -1,9 +1,9 @@
 ## Hi there, I'm Adem Kınataş 👋
 
-### I'm a Industrial Engineer and Software Developer.
+### I'm a Software Developer.
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 My Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love reading, swimming, traveling and cycling
 
 
@@ -12,7 +12,6 @@
 
 <img align="left" alt="CSharp" width="40px" src="https://miro.medium.com/max/594/1*ymVNbsdd7KxHXHC4-LP7kw.png" />
 <img align="left" alt=".NET" width="40px" src="https://img.favpng.com/22/12/24/net-framework-microsoft-windows-7-png-favpng-srUtzC1G9i7NYhfnduH4H5qkS.jpg" />
-<img align="left" alt=".NET Core" width="40px" src="https://www.pngitem.com/pimgs/m/33-335825_-net-core-logo-png-transparent-png.png" />
 <img align="left" alt="Visual Stodio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
