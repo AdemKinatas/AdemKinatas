@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Adem,I'am software  developer 👨‍💻 I'am interested coding since 2019 🚀</div>  
+### <div align="center">I'm Adem,I'am software  developer 👨‍💻 I'am interested coding since 2019</div>  
 
 
 - 🌱 I’m currently using .net,react and react native tecnologies
