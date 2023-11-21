@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ademkinatas&label=Profile%20views&color=0e75b6&style=flat" alt="ademkinatas" /> </p>
 
-- 🌱 I’m currently learning **Microservice Architecture, React Native and Go**
-
+- 🌱 I’m currently learning Go
 - 💬 Ask me about **.Net, .Net Core, React, React Native**
 
 - 📫 How to reach me **ademkinatas@gmail.com**
